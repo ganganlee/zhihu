@@ -13,7 +13,7 @@
             <input type="text" placeholder="请输入手机号">
           </div>
         </div>
-        <div class="login-flex-wrapper login-input-item">
+        <div class="login-flex-wrapper login-input-item" style="margin-top: 12px;">
           <div class="content">
             <input type="text" placeholder="请输入验证码">
           </div>

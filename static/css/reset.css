@@ -73,6 +73,7 @@ body{
   line-height: 1;
   -webkit-text-size-adjust: none;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  background: #f6f6f6;
 }
 html{
   overflow-y: scroll;
