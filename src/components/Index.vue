@@ -55,12 +55,13 @@
           </div>
         </div>
       </div>
-      <div></div>
+      <AsideComponent></AsideComponent>
     </div>
   </div>
 </template>
 
 <script>
+  import AsideComponent from "./Aside.vue";
   export default {
     name: 'Index',
     data () {
@@ -76,6 +77,9 @@
       mouseleaveHeadimg(){
         console.log(123);
       },
+    },
+    components:{
+      AsideComponent,
     }
   }
 </script>
